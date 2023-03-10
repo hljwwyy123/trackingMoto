@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "tracking",
+  "appid": "wxeb04e9890b8e851f",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}
